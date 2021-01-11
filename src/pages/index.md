@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: We Craft Custom Web Solutions for Your Business
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      We help Startups, SMB's, Digital Agencies and Software Product Companies
+      to simplify their Site or App Development Experience and save time/cost
     actions:
       - label: Let's talk
         url: /contact
